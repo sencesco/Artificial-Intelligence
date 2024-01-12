@@ -9,14 +9,28 @@ from keras.models import load_model
 model = load_model('dog_breed.h5')
 
 #Name of Classes
-CLASS_NAMES = ['Scottish Deerhound','Maltese Dog','Bernese Mountain Dog']
+CLASS_NAMES = ['pekinese', 'walker_hound', 'boxer', 'otterhound',
+       'english_setter', 'dhole', 'toy_poodle', 'border_terrier',
+       'norwegian_elkhound', 'shih-tzu', 'kuvasz', 'german_shepherd',
+       'greater_swiss_mountain_dog', 'australian_terrier',
+       'rhodesian_ridgeback', 'appenzeller', 'samoyed', 'border_collie',
+       'entlebucher', 'collie', 'malamute', 'chihuahua', 'saluki',
+       'komondor', 'bull_mastiff', 'bernese_mountain_dog', 'lhasa',
+       'scotch_terrier', 'miniature_pinscher', 'brabancon_griffon',
+       'toy_terrier', 'flat-coated_retriever',
+       'soft-coated_wheaten_terrier', 'siberian_husky', 'briard',
+       'chesapeake_bay_retriever', 'beagle', 'vizsla',
+       'west_highland_white_terrier', 'kerry_blue_terrier', 'whippet',
+       'japanese_spaniel', 'curly-coated_retriever', 'pembroke',
+       'silky_terrier', 'sussex_spaniel', 'german_short-haired_pointer',
+       'french_bulldog', 'english_springer', 'rottweiler']
 
 #Setting Title of App
 st.title("Dog Breed Prediction")
 st.markdown("Upload an image of the dog")
 
 #Uploading the dog image
-dog_image = st.file_uploader("Choose an image...", type=["png","JPG","JPEG"])
+dog_image = st.file_uploader("Choose an image...", type=["png","jpg","jpeg"])
 submit = st.button('Predict')
 #On predict button click
 if submit:
