@@ -19,7 +19,4 @@ Dog breed prediction
 <img src="https://github.com/sencesco/Artificial-Intelligence/assets/140499337/fd6d28fa-a3e2-45c7-8d2b-e9108dfb8ffd" alt="prediction">
 </br>
 
-## License
-
-My public  repository have a licenses: [MIT](https://choosealicense.com/licenses/mit/)
 
