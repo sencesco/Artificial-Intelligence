@@ -5,11 +5,12 @@ Text OCR for get text from image and etc.
 ## For example
 
 Dog breed prediction
-
+<br>
 - Kaggle/Colab/Jupyter notebook directory: for notebook detail of process to traning model
 
 <img src="https://github.com/sencesco/Artificial-Intelligence/assets/140499337/8835ee0a-92ce-48c2-bf32-6e4675706885" alt="notebook detail">
 
+<br>
 - <project> streamlit/flask app: AI app run in local in command prompt
   - streamlit app:  stremlit run main_app,py
   - flask app: python app.py
