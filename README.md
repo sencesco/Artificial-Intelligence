@@ -9,7 +9,7 @@ Dog breed prediction
 - Kaggle/Colab/Jupyter notebook directory
 
 <img src = '![image](https://github.com/sencesco/Artificial-Intelligence/assets/140499337/8835ee0a-92ce-48c2-bf32-6e4675706885)
-'>
+'></img>
 For notebook detail of process to traning model
 
 
