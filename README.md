@@ -1,6 +1,6 @@
 ## Artificial Intelligence
 
-This related to AI that already traning and UI. That have much more AI to do thier purpose. For example, dog breed prediction,
+This related to AI that already training and UI. That have much more AI to do thier purpose. For example, dog breed prediction,
 Text OCR for get text from image and etc.
 ## For example
 
