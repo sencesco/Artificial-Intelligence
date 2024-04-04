@@ -13,7 +13,7 @@ Dog breed prediction
 
 <br>
 - <project> streamlit/flask app: AI app run in local in command prompt
-  - streamlit app:  stremlit run main_app,py
+  - streamlit app:  streamlit run main_app.py
   - flask app: python app.py
 <img src="https://github.com/sencesco/Artificial-Intelligence/assets/140499337/12e77036-ee3f-4568-944f-8604c10b6105" alt="run app">
 <img src="https://github.com/sencesco/Artificial-Intelligence/assets/140499337/fd6d28fa-a3e2-45c7-8d2b-e9108dfb8ffd" alt="prediction">
